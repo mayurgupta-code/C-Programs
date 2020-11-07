@@ -1,4 +1,4 @@
-
+//low and high are the indecices here low is zero and high is the index of the last element i.e., (size-1)
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
