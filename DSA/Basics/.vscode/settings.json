@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.includePath": [
+        "/usr/bin/gcc"
+    ],
+    "C_Cpp.default.systemIncludePath": ["/usr/bin/gcc"]
+}
