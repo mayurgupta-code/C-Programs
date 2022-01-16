@@ -16,9 +16,9 @@ int main(){
   printf("\n%d\n",a);
 
   //verifying that its stores correctly
-  int b;
-  b = a + 7;
-  printf("\n%d\n",b);
+  // int b;
+  // b = a + 7;
+  // printf("\n%d\n",b);
 
   return 0;
 }
