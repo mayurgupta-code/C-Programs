@@ -1,8 +1,8 @@
-#include <iostream>
+// #include <iostream>
+#include "bits:stdc++.h"
 using namespace std;
 
 int main(){
-
     int num, i;
     cout << "Enter the Number till you want prime numbers: ";
     cin >> num;
